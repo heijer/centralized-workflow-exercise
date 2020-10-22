@@ -1,0 +1,18 @@
+word categorization alla Monty Python
+
+woody:
+- wood
+- log
+- gone
+
+
+tinny:
+- tin
+- mid-wicket
+
+
+
+pvc:
+- pvc
+- github
+- antilope
